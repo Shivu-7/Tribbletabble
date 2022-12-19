@@ -2,4 +2,4 @@
 
 
 Live Website <br>
-Languages Used :  HTML CSS Javascript and JQuery
+Languages Used :  HTML Tailwind CSS React
